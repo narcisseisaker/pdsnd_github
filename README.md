@@ -9,8 +9,8 @@ Replace the Project Title
 Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
-omparison of the system usage between three large cities: Chicago, New York City, and Washington, DC by computing the descriptive statistics below:
+
+Comparison of the system usage between three large cities: Chicago, New York City, and Washington, DC by computing the descriptive statistics below:
 
  ## 1 Popular times of travel (i.e., occurs most often in the start time)
    - most common month
